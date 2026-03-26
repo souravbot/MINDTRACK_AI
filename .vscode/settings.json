@@ -1,0 +1,14 @@
+{
+    "python.defaultInterpreterPath": "/home/sourav/Downloads/MINDTRACK_AI/.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true,
+        "**/*.pyc": true
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    }
+}
